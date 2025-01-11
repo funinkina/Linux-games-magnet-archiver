@@ -3,7 +3,7 @@ This python script scrapes the site [FreeLinuxPCGames](https://freelinuxpcgames.
 
 ## How to use?
 1. Clone the repository.
-    - `git clone <url>`
+    - `git clone https://github.com/funinkina/Linux-games-magnet-archiver`
 2. Create a new virtual environment if you don't have one.
     - Windows:
       ` python -m venv venv`
